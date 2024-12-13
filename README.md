@@ -41,7 +41,7 @@ The **Hollywood Movies Dataset** includes information on:
 - **Markdown**: For documentation.  
 
 ## Project Structure  
-```plaintext  
+
 📦 Hollywood-Movies-Analysis  
  ┣ 📂 Data  
  ┃ ┣ 📜 hollywood_movies.csv          # Raw dataset  
@@ -52,4 +52,26 @@ The **Hollywood Movies Dataset** includes information on:
  ┣ 📂 Visualizations  
  ┃ ┣ 📜 charts_and_graphs.png         # Key visualizations from R  
  ┣ 📜 README.md                      # Project documentation  
- ┣ 📜 LICENSE                        # Licensing information  
+ ┣ 📜 LICENSE                        # Licensing information
+
+1- This query returns statistics summary
+![R 1](https://github.com/user-attachments/assets/b1b6cddd-34ae-409f-ba49-87bc04c596da)
+
+2- This kod imports library
+![R 2](https://github.com/user-attachments/assets/d6834d71-c93c-4ae8-8397-c157220bc1d2)
+
+3- This will open preview data frame
+![R 3](https://github.com/user-attachments/assets/1a4c56aa-3f19-48a6-a273-f2f2ef96b7c0)
+![R 33](https://github.com/user-attachments/assets/fa97c691-89d8-4a8d-931b-bdb9ff21dc58)
+
+4- This returns summary statistics
+![R 5](https://github.com/user-attachments/assets/fa18c58e-4bdf-4c0e-b1f6-6c10ef4aff91)
+
+5- This creates a bar chart displaying numbers of movies per year
+![R 6 chart](https://github.com/user-attachments/assets/9a791354-91a8-48bd-b6fe-2f6bbb719eb6)
+
+
+
+
+
+
